@@ -1,4 +1,4 @@
-import Twitter from './Twitter.jsx';
+import Twitter from './twitter.jsx';
 import Book from './book.jsx';
 import NavBar from './navbar.jsx';
 
