@@ -4,7 +4,8 @@
   "scripts": {
     "build": "node ./node_modules/webpack/bin/webpack.js",
     "serv": "node server.js",
-    "lint": "gulp lint"
+    "lint": "gulp lint",
+    "test": "mocha"
   },
   "dependencies": {
     "body-parser": "^1.15.2",
