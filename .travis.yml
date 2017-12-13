@@ -14,3 +14,4 @@ addons:
     access_key: "9bad5316-8909-460d-81a8-2ff421d0e1b7"
 script:
   - sonar-scanner
+  - npm test
