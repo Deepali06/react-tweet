@@ -1,5 +1,5 @@
-const should = require("chai").should(),
-assert = require ("chai").assert,
+
+const assert = require ("chai").assert
 
 describe('sample', function() {
   describe('sample desc', function() {
